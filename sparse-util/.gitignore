@@ -1,0 +1,5 @@
+# env files
+.DS_Store
+
+# bin files
+sparse
